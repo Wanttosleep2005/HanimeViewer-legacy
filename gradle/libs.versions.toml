@@ -10,7 +10,7 @@ documentFile = "1.1.0"
 glance = "1.1.1"
 kotlin = "2.4.10"
 serializationPlugin = "2.4.10"
-ksp = "2.3.2"
+ksp = "2.3.11"
 # Dependencies
 coreKtx = "1.19.0"
 appcompat = "1.7.1"
