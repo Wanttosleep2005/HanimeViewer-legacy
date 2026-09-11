@@ -9,7 +9,7 @@ coreSplashscreen = "1.2.0"
 documentFile = "1.1.0"
 glance = "1.1.1"
 kotlin = "2.4.10"
-serializationPlugin = "2.4.10"
+serializationPlugin = "2.4.20"
 ksp = "2.3.2"
 # Dependencies
 coreKtx = "1.19.0"
